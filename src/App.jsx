@@ -14,6 +14,7 @@ function App() {
         quae ullam nisi dolorem illum corporis, nobis sed, beatae magnam debitis
         omnis illo eligendi ipsam quidem ducimus at? Velit!
       </p>
+      <h1>Hello Word</h1>
     </>
   );
 }
